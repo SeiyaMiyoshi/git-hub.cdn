@@ -1,26 +1,18 @@
-Name
+git-hub.cdn
 ====
 
 Overview
 
 ## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
+git-hubで公開したスクリプトファイルをCDN化するための置き場所です。
 
 ## Usage
+ここにcdn化したスクリプトのurlを貼り付ける。
 
 ## Install
 
 ## Contribution
 
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
 ## Author
+seiya miyoshi
 
-[tcnksm](https://github.com/tcnksm)
