@@ -1,10 +1,9 @@
 git-hub.cdn
 ====
-
-Overview
+git-hubで公開したスクリプトファイルをCDN化するための置き場所です。
 
 ## Description
-git-hubで公開したスクリプトファイルをCDN化するための置き場所です。
+https://rawgit.com/
 
 ## Usage
 ここにcdn化したスクリプトのurlを貼り付ける。
