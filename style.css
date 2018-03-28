@@ -1,0 +1,59 @@
+/* Forms css for Google Apps Script */
+
+/*======================================
+=            ガター溝なしスタイリング            =
+======================================*/
+.container-small, .container-large {
+    max-width: 100%;
+}
+@media (min-width: 768px) {
+    .container-small {
+        width: 300px;
+    }
+    .container-large {
+        width: 970px;
+    }
+}
+@media (min-width: 992px) {
+    .container-small {
+        width: 500px;
+    }
+    .container-large {
+        width: 1170px;
+    }
+}
+@media (min-width: 1200px) {
+    .container-small {
+        width: 700px;
+    }
+    .container-large {
+        width: 1500px;
+    }
+}
+
+  body {
+    /* padding-top: 50px; */
+  }
+  .mainpanel {
+    padding: 40px 15px;
+  }
+  .logpanel {
+    width: 100%;
+  }
+  .left-pane {
+    
+  }
+  .right-pane {
+  }
+  .container {
+    text-align: center;  
+  }
+  .grid {
+    height: 100%;
+  }  
+  .btn {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
