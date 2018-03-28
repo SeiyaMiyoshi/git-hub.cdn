@@ -1,10 +1,12 @@
+(function( $ ) {
+  $.fn.myPlugin = function() {
+    var model = { procedure: JSON.parse(<?= data ?>) };
+    $(document).ready(function () {
+      ko.applyBindings(model);
+    });
 
-var model = { procedure: JSON.parse(<?= data ?>) };
-
-$(document).ready(function () {
-  ko.applyBindings(model);
-});
-    
-$(document).ready(function(){
-$('#myTable').dataTable();
-});
+    $(document).ready(function(){
+    $('#myTable').dataTable();
+    });
+  };
+})( jQuery );
