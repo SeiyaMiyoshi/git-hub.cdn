@@ -10,7 +10,10 @@ google apps scriptを使ったwebアプリケーションの作成に利用し�
 https://rawgit.com/
 
 ## Usage
-ここにcdn化したスクリプトのurlを貼り付ける。
+
+sample app - フォームアプリケーション用css
+https://cdn.rawgit.com/SeiyaMiyoshi/git-hub.cdn/11d37572/form.css
+
 
 ## Install
 
