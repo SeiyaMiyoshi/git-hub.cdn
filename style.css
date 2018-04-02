@@ -14,9 +14,6 @@
         width: 970px;
     }
     
-    #employee_list th {
-        min-width: 50px;
-    }
 }
 @media (min-width: 992px) {
     .container-small {
