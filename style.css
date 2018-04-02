@@ -59,7 +59,11 @@
   }
 
  div.dataTables_wrapper {
-    width: 75%;
+    width: 100%;
     /*margin: 0 auto;*/
      text-align: left;
  }
+
+ #employee_list th {
+     width:auto;
+}
