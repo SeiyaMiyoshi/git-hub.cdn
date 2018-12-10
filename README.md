@@ -13,7 +13,7 @@ https://rawgit.com/
 
 sample app - フォームアプリケーション用css
 
-https://cdn.rawgit.com/SeiyaMiyoshi/git-hub.cdn/11d37572/form.css
+https://cdn.jsdelivr.net/gh/SeiyaMiyoshi/git-hub.cdn@11d37572/form.css
 
 
 ## Install
